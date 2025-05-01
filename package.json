@@ -1,0 +1,25 @@
+{
+    "dependencies": {
+      "@tailwindcss/cli": "^4.1.5",
+      "node": "^22.15.0",
+      "tailwindcss": "^4.1.5"
+    },
+    "name": "pokemon",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo "Error: no test specified" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "pokemon card page",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/CloudKai24/PokemonTCG.git"
+    },
+    "bugs": {
+      "url": "https://github.com/CloudKai24/PokemonTCG/issues"
+    },
+    "homepage": "https://github.com/CloudKai24/PokemonTCG#readme"
+  }
